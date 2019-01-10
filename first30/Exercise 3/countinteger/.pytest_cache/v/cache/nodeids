@@ -1,0 +1,4 @@
+[
+  "test_countinteger.py::test_canassertTrue", 
+  "test_countinteger.py::test_countintegerofgivennumber"
+]
